@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adjustment.iml" filepath="$PROJECT_DIR$/Adjustment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appinit/appinit.iml" filepath="$PROJECT_DIR$/appinit/appinit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apppub/apppub.iml" filepath="$PROJECT_DIR$/apppub/apppub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telchina/telchina.iml" filepath="$PROJECT_DIR$/telchina/telchina.iml" />
+    </modules>
+  </component>
+</project>
