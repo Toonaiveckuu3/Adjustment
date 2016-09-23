@@ -74,4 +74,7 @@ public class LevelingStation {
     private double heightDiff_2;
     /** 平均高差*/
     private double meanHeightDiff;
+
+    /** 备注*/
+    private String remark;
 }

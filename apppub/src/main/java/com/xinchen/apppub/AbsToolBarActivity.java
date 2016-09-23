@@ -29,7 +29,7 @@ public abstract class AbsToolBarActivity extends AbsActivity {
      * @param toolbar
      * @author GISirFive
      */
-    public void onCreateCustomToolBar1(Toolbar toolbar) {
+    public void onCreateCustomToolBar(Toolbar toolbar) {
         toolbar.setContentInsetsRelative(0, 0);
     }
 

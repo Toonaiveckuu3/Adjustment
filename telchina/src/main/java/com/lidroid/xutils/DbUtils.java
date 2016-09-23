@@ -324,8 +324,9 @@ public class DbUtils {
         }
     }
 
-    public void deleteAll(Class<?> entityType) throws DbException {
+    public <T> List<T> deleteAll(Class<?> entityType) throws DbException {
         delete(entityType, null);
+        return null;
     }
 
     public void update(Object entity, String... updateColumnNames) throws DbException {
